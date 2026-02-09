@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ujwal 👋
 
-<!--
-**ujwal1919/ujwal1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science & Engineering undergraduate  
+💻 Full Stack Developer Intern at QSpiders  
+📍 Bengaluru, India  
 
-Here are some ideas to get you started:
+## 🔹 About Me
+I am an entry-level software developer with a strong foundation in Python, SQL, and web development fundamentals.  
+Currently gaining hands-on experience through a Full Stack Development internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Technical Skills
+- Python
+- SQL
+- HTML, CSS, JavaScript (Basics)
+- Backend Development
+- Database Management (DBMS)
+
+## 🔹 Projects
+- SONAR Rock vs Mine Prediction (Python-based classification system)
+- Micro Defect Detection System (Python-based software system)
+
+## 🔹 Currently Learning
+- Full Stack Web Development
+- Backend logic & database connectivity
+
+## 🔹 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ujwal-gowda-k-r-323a53241
