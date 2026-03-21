@@ -13,6 +13,7 @@ Currently gaining hands-on experience through a Full Stack Development internshi
 - SQL
 - HTML, CSS, JavaScript (Basics)
 - Backend Development
+- Data Analysis concepts
 - Database Management (DBMS)
 
 ## 🔹 Projects
@@ -21,6 +22,7 @@ Currently gaining hands-on experience through a Full Stack Development internshi
 
 ## 🔹 Currently Learning
 - Full Stack Web Development
+- Data Analysis
 - Backend logic & database connectivity
 
 ## 🔹 Connect With Me
