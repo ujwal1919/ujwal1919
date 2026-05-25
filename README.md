@@ -82,4 +82,3 @@ Python-based defect detection system focused on identifying micro-level defects 
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/ujwal-gowda-k-r-323a53241](http://www.linkedin.com/in/ujwal-gowda-k-r-323a53241)
-* GitHub: https://github.com/YOUR_USERNAME
