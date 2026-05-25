@@ -65,7 +65,6 @@ Python-based defect detection system focused on identifying micro-level defects 
 * Django REST Framework (DRF)
 * API Development
 * Deployment & DevOps
-* Docker
 * Data Structures & Algorithms
 
 ---
